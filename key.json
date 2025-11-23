@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
+   {
+    "id": "732c3fe28cd342de",
+    "username": "devcode",
+    "password": "afrin",
+    "expiresAt": "2025-11-24",
+    "allowOffline": false
+   }
 ]
