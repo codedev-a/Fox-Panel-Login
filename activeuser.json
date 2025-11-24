@@ -16,8 +16,8 @@
     {
         "device_id": "732c3fe28cd342de",
         "username": "admin",
-        "password": "admin",
-        "expirydate": "13-03-2026",
+        "password": "pass123",
+        "expirydate": "30-11-2025",
         "Allowoffline": false
     }
 ]
